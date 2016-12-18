@@ -1,0 +1,31 @@
+*{box-sizing: border-box;
+   font-family: helvetica;}    
+
+h1 {text-align: center;
+    font-size: 35px
+    margin-bottom:40px;}
+
+span {position: relative;
+	text-align: center;
+    width: 200px;
+    float: right;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    }    
+#one{color: black;
+     background-color: pink;
+     clear: right;
+     }
+#two{background-color: red;
+     color: black;
+     clear: right;}
+#three{background-color: yellow;
+       color: black;
+       clear: right;} 
+section {box-sizing: border-box;
+         border: 2px black solid;
+         margin: 10px;
+         background-color: gray;
+         float: left;}
+p {padding: 10px;}         
+
