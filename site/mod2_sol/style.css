@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+div{
+	width: 100%;
+}
+
+section {
+	border: 2px solid black;
+	background: gray;
+	margin: 10px; 
+}
+
+section>h2 {
+	width: 200px;
+	border-left: 2px black solid;
+	border-bottom: 2px black solid;
+	float:right;
+	text-align: center;
+	margin:0; 
+}
+
+
+.sushi{
+	background: red;
+	font-size: 24px;
+	font-style: bold;
+}
+
+.paneer{
+	background: yellow;
+	font-size: 24px;
+	font-style: bold;
+}
+
+.pizza{
+	background: blue;
+	font-size: 24px;
+	font-style: bold;
+}
+p {
+	padding: 5px;
+	margin-top: 40px;
+}   
